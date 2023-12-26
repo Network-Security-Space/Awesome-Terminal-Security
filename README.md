@@ -26,19 +26,35 @@ About Terminal-Security(Windows/IOS/Linux/Android)
 ### Analysis tools
 
 - Decompiling tools
--   C Language Family: IDA Pro, ghrida
--   Java: JD-GUI
--   Android: apktool, jadx
+    - C Language Family: IDA Pro, ghrida
+    - Java: JD-GUI, [jadx](https://github.com/skylot/jadx)
+    - Android: [apktool](https://github.com/iBotPeaches/Apktool)
 
 - DisAssembler Tools
--   Hopper
--   radare2
+    - Hopper
+    - radare2
 
 - Machine code viewer
--   010 editor
--   [visual studio code](https://code.visualstudio.com/)
+    - 010 editor
+    - [visual studio code](https://code.visualstudio.com/)
 
 ### Debug tool
 
-Xposed
+- Xposed Family:
+    - [Xspoed](https://github.com/rovo89/Xposed)
+    - [LSPosed](https://github.com/LSPosed/LSPosed)
 
+- Frida Family:
+    - [frida](https://github.com/frida/frida)
+    - [objection](https://github.com/sensepost/objection)
+    - [jnitrace](https://github.com/chame1eon/jnitrace)
+
+### Simulate execution tools
+> todo
+
+### Symbolic execution tools
+> todo
+
+### taint analysis
+> todo
+ 
