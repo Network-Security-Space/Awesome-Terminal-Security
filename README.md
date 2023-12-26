@@ -26,9 +26,9 @@ About Terminal-Security(Windows/IOS/Linux/Android)
 ### Analysis tools
 
 - Decompiling tools
-    - C Language Family: IDA Pro, ghrida
+    - C Language Family: [IDA Pro](https://hex-rays.com/ida-pro/), [ghrida](https://ghidra-sre.org/)
     - Java: JD-GUI, [jadx](https://github.com/skylot/jadx)
-    - Android: [apktool](https://github.com/iBotPeaches/Apktool)
+    - Android: [apktool](https://github.com/iBotPeaches/Apktool), [JEB](https://www.pnfsoftware.com/), [GJoy Dex Analyzer(GDA)](http://www.gda.wiki:9090/)
 
 - DisAssembler Tools
     - Hopper
@@ -40,21 +40,23 @@ About Terminal-Security(Windows/IOS/Linux/Android)
 
 ### Debug tool
 
-- Xposed Family:
-    - [Xspoed](https://github.com/rovo89/Xposed)
-    - [LSPosed](https://github.com/LSPosed/LSPosed)
+- Xposed Family: [Xspoed](https://github.com/rovo89/Xposed), [LSPosed](https://github.com/LSPosed/LSPosed)
 
-- Frida Family:
-    - [frida](https://github.com/frida/frida)
-    - [objection](https://github.com/sensepost/objection)
-    - [jnitrace](https://github.com/chame1eon/jnitrace)
+- Frida Family: [frida](https://github.com/frida/frida), [objection](https://github.com/sensepost/objection), 
+[jnitrace](https://github.com/chame1eon/jnitrace)
 
 ### Simulate execution tools
-> todo
+
+- [angr · A powerful and user-friendly binary analysis platform!](https://angr.io/)
+- [capstone-engine · The Ultimate Disassembly Framework](https://www.capstone-engine.org/)
+- [unicorn](https://www.unicorn-engine.org/)
+- [Keystone – The Ultimate Assembler](https://www.keystone-engine.org/)
+
 
 ### Symbolic execution tools
-> todo
 
-### taint analysis
+[The Z3 Theorem Prover](https://github.com/Z3Prover/z3)
+
+### taint analysis tools
 > todo
  
