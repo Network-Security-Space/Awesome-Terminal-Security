@@ -38,7 +38,6 @@ About Terminal-Security(Windows/IOS/Linux/Android)
     - [visual studio code](https://code.visualstudio.com/)
 
 ### Debug tool
-
 - Xposed Family: [Xspoed](https://github.com/rovo89/Xposed), [LSPosed](https://github.com/LSPosed/LSPosed)
 - Frida Family: [frida](https://github.com/frida/frida), [objection](https://github.com/sensepost/objection), 
 [jnitrace](https://github.com/chame1eon/jnitrace)
@@ -55,6 +54,6 @@ About Terminal-Security(Windows/IOS/Linux/Android)
 
 [The Z3 Theorem Prover](https://github.com/Z3Prover/z3)
 
-### taint analysis tools
+### Taint analysis tools
 > todo
  
