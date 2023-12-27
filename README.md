@@ -39,8 +39,8 @@ About Terminal-Security(Windows/IOS/Linux/Android)
 
 ### Debug tool
 - Xposed Family: [Xspoed](https://github.com/rovo89/Xposed), [LSPosed](https://github.com/LSPosed/LSPosed)
-- Frida Family: [frida](https://github.com/frida/frida), [objection](https://github.com/sensepost/objection), 
-[jnitrace](https://github.com/chame1eon/jnitrace)
+- Frida Family: [Frida](https://github.com/frida/frida), [Objection](https://github.com/sensepost/objection), 
+  [Jnitrace](https://github.com/chame1eon/jnitrace)
 
 ### Simulate execution tools
 
