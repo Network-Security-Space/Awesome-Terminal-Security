@@ -34,7 +34,7 @@ About Terminal-Security(Windows/IOS/Linux/Android)
     - radare2
 
 - Machine code viewer
-    - 010 editor
+    - [010 editor](https://www.sweetscape.com/010editor/)
     - [visual studio code](https://code.visualstudio.com/)
 
 ### Debug tool
