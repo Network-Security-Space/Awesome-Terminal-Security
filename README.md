@@ -13,6 +13,11 @@ About Terminal-Security(Windows/IOS/Linux/Android)
 
 ## Tools
 
+### Root
+
+[Magisk](https://github.com/topjohnwu/Magisk)
+
+
 ### Packet Capture tool
 
 > based on ISO TCP/IP
