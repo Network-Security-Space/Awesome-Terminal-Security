@@ -61,6 +61,6 @@ About Terminal-Security(Windows/IOS/Linux/Android)
 > todo
 
 # reference
-[Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
-[android-security-awesome](https://github.com/ashishb/android-security-awesome)
+- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+- [android-security-awesome](https://github.com/ashishb/android-security-awesome)
 
