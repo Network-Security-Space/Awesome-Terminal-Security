@@ -1,7 +1,7 @@
 # Awesome-Terminal-Security
 About Terminal-Security(Windows/IOS/Linux/Android)
 
-## guideline
+## Guideline
 
 > Terminal security engineer (non-standard classification)
 
