@@ -59,4 +59,8 @@ About Terminal-Security(Windows/IOS/Linux/Android)
 
 ### Taint analysis tools
 > todo
- 
+
+# reference
+[Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+[android-security-awesome](https://github.com/ashishb/android-security-awesome)
+
